@@ -19,9 +19,13 @@ Explore some of my featured projects:
 Airdrop Smart Contract - A Solidity smart contract for managing token airdrops.
 
 📫 Let's Connect
-GitHub: www.linkedin.com/in/emmanuel-emkiddo-7136992a3
-LinkedIn: devEmkiddo
-Twitter: @devEmkiddo
+
+-GitHub: @devEmkiddo
+
+-LinkedIn:  www.linkedin.com/in/emmanuel-emkiddo-7136992a3
+
+-Twitter: @devEmkiddo
+
 Feel free to reach out if you have any questions, suggestions, or if you'd like to collaborate on a project!
 
 ⚡ Fun Fact
