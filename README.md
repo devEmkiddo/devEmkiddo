@@ -36,8 +36,10 @@
   <li><a href="https://github.com/devEmkiddo
 ">Github</a></li>
 </ul>
+<h2>Contact me</h2>
+<p><a href="http://t.me/devEmkiddo">Click me</a> to send me a direct message on telegram</p>
 
-Feel free to reach out if you have any questions, suggestions, or if you'd like to collaborate on a project!
+<p>Feel free to reach out if you have any questions, suggestions, or if you'd like to collaborate on a project!</p>
 
 ⚡ Fun Fact
 I believe in the power of community and open-source collaboration. Let's make the tech world more exciting together! 🌐✨
