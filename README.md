@@ -20,7 +20,7 @@
   <li><a href="https://github.com/devEmkiddo/AirdropWithFee">Simple airdrop with fee</a>
     <p>AIRDROP This Solidity smart contract, named Airdrop, helps distribute tokens to eligible participants. Participants can claim tokens by sending Ether to the contract, and the owner can manage funds.</p>
   </li>
-  <li><a href="https://github.com/devEmkiddo/AirdropWithFee">PXEARN</a>
+  <li><a href="https://pxearn.netlify.app/">PXEARN</a>
     <p>Crafted with simplicity, this earning website is coded with Bootstrap and HTML. check it out</p>
   </li>
   <li><a href="https://github.com/devEmkiddo/Hold-To-Claim-Airdrop">Hold-To-Claim-Airdrop</a>
