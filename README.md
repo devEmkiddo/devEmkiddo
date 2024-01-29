@@ -17,8 +17,9 @@
 <h2>📚 Featured Projects</h2>
 <h3>Explore some of my featured projects:</h3>
 <ul>
-  <li><a href="https://github.com/devEmkiddo/AirdropWithFee">Simple airdrop with fee</a>
-    <p>AIRDROP This Solidity smart contract, named Airdrop, helps distribute tokens to eligible participants. Participants can claim tokens by sending Ether to the contract, and the owner can manage funds.</p>
+  <li><a href="https://trxxxcoin.netlify.app">Simple airdrop with fee</a>
+    <h2>Trxxx Coin</h2>
+    <p>This airdrop website allows users to claim airdrop with a fee, connect with your sepolia eth network and claim, mobile and destok responsive site</p>
   </li>
   <li><a href="https://pxearn.netlify.app/">PXEARN</a>
     <p>Crafted with simplicity, this earning website is coded with Bootstrap and HTML. check it out</p>
