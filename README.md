@@ -17,8 +17,7 @@
 <h2>📚 Featured Projects</h2>
 <h3>Explore some of my featured projects:</h3>
 <ul>
-  <h2>Trxxx Coin</h2>
-  <li><a href="https://trxxxcoin.netlify.app">Simple airdrop with fee</a>
+  <li><a href="https://trxxxcoin.netlify.app"><strong>Trxxx Airdrop</strong></a>
     <p>This airdrop website allows users to claim airdrop with a fee, connect with your sepolia eth network and claim, mobile and destok responsive site</p>
   </li>
   <li><a href="https://pxearn.netlify.app/">PXEARN</a>
