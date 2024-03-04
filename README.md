@@ -28,6 +28,10 @@
   </li>
 </ul>
 
+<h2>Learn Solidity</h2>
+<p>Connect, share ideas and link up with other developers</p>
+<a href="https://t.me/solidityafinance/1">Join the community now</a>
+
 <h2>📫 Let's Connect</h2>
 <ul>
   <li><a href="www.linkedin.com/in/emmanuel-emkiddo-7136992a3
